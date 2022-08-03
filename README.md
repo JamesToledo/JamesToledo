@@ -1,7 +1,7 @@
 ### Sobre
 Olá eu sou James Toledo, tenho 18 anos, atualmente estou desenvolvendo projetos, ganhando conhecimento e experiência.
 
-Participei do TreinaDev através da Campus Code, um programa de formação de pessoas desenvolvedoras. Durante o treinamento é feita uma vivência em equipe, para desenvolver um projeto usando scrum, tdd, pair programming, boas práticas... [Link do Projeto](https://github.com/TreinaDev/e-commerce-td08-time02)
+Participei do TreinaDev através da Campus Code, um programa de formação de pessoas desenvolvedoras. Durante o treinamento desenvolvemos aplicações em equipe usando metodologias ágeis como scrum, kanban e pair programming, com boas práticas e desenvolvimento orientado a testes(TDD). Nesta etapa desenvolvemos duas aplicações, um E-comerce e uma app de pagamentos que se comunicam via API. Uma experiência onde enfrentamos dificuldades reais do dia a dia de um desenvolvedor. [Link do Projeto](https://github.com/TreinaDev/e-commerce-td08-time02)
 
 ## Github stats
 <div align="center" style="display: flex; flex-direction: row; justify-content: space-between;">
