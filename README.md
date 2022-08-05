@@ -6,7 +6,7 @@ Participei do TreinaDev através da Campus Code, um programa de formação de pe
 ## Github stats
 <div align="center" style="display: flex; flex-direction: row; justify-content: space-between;">
   <a href="https://github.com/JamesToledo"><a/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JamesToledo&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JamesToledo&show_icons=true&theme=vision-friendly-dark&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesToledo&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
